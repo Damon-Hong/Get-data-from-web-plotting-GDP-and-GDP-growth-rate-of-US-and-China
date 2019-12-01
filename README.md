@@ -1,4 +1,4 @@
-# Get data from web plotting GDP and GDP growth rate of US and China
+# Mining data from web (Wikipedia) plotting GDP and GDP growth rate of US and China
 ## Introduction:
 This research mainly focuses on how to get the GDP related data from wikipedia web and visualsing the GDP data and GDP growth rate of US and China. Finally, some relationships can be found in terms of these plots.
 
